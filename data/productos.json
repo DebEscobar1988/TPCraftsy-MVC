@@ -1,0 +1,50 @@
+[ 
+{
+    "id": 1,
+    "nombre": "sansum 1",
+    "descripcion":"lorem ipsum dolor amet sit",
+    "descuento": 0,
+    "precio":150,
+    "imagen": "img-phone-01.jpg"
+},
+{
+    "id": 2,
+    "nombre": "motorola 1",
+    "descripcion":"lorem ipsum dolor amet sit",
+    "descuento": 5,
+    "precio":200,
+   "imagen": "img-phone-02.jpg"
+},
+{
+    "id": 3,
+    "nombre": "nokia 1",
+    "descripcion":"lorem ipsum dolor amet sit",
+    "descuento": 0,
+    "precio":200,
+   "imagen":"img-phone-03.jpg"
+},
+{
+    "id": 4,
+    "nombre": "xiomi 11",
+    "descripcion":"lorem ipsum dolor amet sit",
+    "descuento": 10,
+    "precio":200,
+   "imagen": "img-phone-01.jpg"
+},
+{
+    "id": 5,
+    "nombre": "asus gamer1",
+    "descripcion":"lorem ipsum dolor amet sit",
+    "descuento": 50,
+    "precio":250,
+   "imagen": "img-phone-02.jpg"
+},
+{
+    "id": 6,
+    "nombre": "tipone 1",
+    "descripcion":"lorem ipsum dolor amet sit",
+    "descuento": 10,
+    "precio":200,
+   "imagen": "img-phone-03.jpg"
+}
+]
